@@ -2,6 +2,21 @@
 
 >Author: Chris Blazek (chris.blazek@gmail.com)
 
+>Author Date: Tue, 24 Jul 2018 15:50:26 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Tue, 24 Jul 2018 15:50:26 -0500
+
+>Commit: af0cb720c6acda948a9c1d89ba05a7ba272f4c22 
+
+
+
+
+### replacing colors that were stripped from a previous d3-scale library
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
 >Author Date: Tue, 24 Jul 2018 15:50:24 -0500
 
 >Commiter: Chris Blazek (chris.blazek@gmail.com)
