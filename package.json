@@ -12,7 +12,7 @@
     "prod": "BABEL_ENV=production NODE_ENV=0 webpack --config webpack.prod.config.js && BABEL_ENV=production NODE_ENV=1 webpack --config webpack.prod.config.js"
   },
   "author": "ElixirDoc team",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
@@ -49,6 +49,18 @@
     "d3": "^5.5.0",
     "d3-scale": "^2.1.0",
     "d3-shape": "^1.2.0",
-    "react-d3-core": "git+ssh://github.com/UMCHealthSystem/react-d3-core.git",
-  }
+    "react-d3-core": "git+ssh://git@github.com/UMCHealthSystem/react-d3-core.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UMCHealthSystem/react-d3-shape.git"
+  },
+  "keywords": [
+    "react",
+    "d3"
+  ],
+  "bugs": {
+    "url": "https://github.com/UMCHealthSystem/react-d3-shape/issues"
+  },
+  "homepage": "https://github.com/UMCHealthSystem/react-d3-shape#readme"
 }
