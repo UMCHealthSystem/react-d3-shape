@@ -1,4 +1,34 @@
-### react ver update (HEAD -> master)
+### replacing colors that were stripped from a previous d3-scale library (HEAD -> master)
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Tue, 24 Jul 2018 15:50:24 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Tue, 24 Jul 2018 15:50:24 -0500
+
+>Commit: eb5c37e9d0dd56d172e4d52b77ca4f05a5d65542 
+
+
+
+
+### react ver update (origin/master, origin/HEAD)
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Tue, 24 Jul 2018 12:05:53 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Tue, 24 Jul 2018 12:05:53 -0500
+
+>Commit: 4aac5e86be06012581a8fea21b728cc166e25108 
+
+
+
+
+### react ver update
 
 >Author: Chris Blazek (chris.blazek@gmail.com)
 
@@ -13,7 +43,7 @@
 
 
 
-### package updates (origin/master, origin/HEAD)
+### package updates
 
 >Author: Chris Blazek (chris.blazek@gmail.com)
 
